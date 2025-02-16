@@ -1,0 +1,5 @@
+Kuch likh dete hai yha pe
+.py
+abc
+
+gitignore*
